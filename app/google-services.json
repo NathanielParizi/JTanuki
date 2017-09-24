@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450490707876",
+    "firebase_url": "https://jtanuki-754c1.firebaseio.com",
+    "project_id": "jtanuki-754c1",
+    "storage_bucket": "jtanuki-754c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450490707876:android:daff6f9eac5fef94",
+        "android_client_info": {
+          "package_name": "com.jtanuki.go.jtanuki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450490707876-an9jt092m5t25kqgs16bfqpvcpioc5ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jtanuki.go.jtanuki",
+            "certificate_hash": "302c9a427d5bc6696cecfdbbaefb2f56bb78fd62"
+          }
+        },
+        {
+          "client_id": "450490707876-uitt75n2b3im0snuecgr67qemtofp5dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1QFiDKp0gM63I1IWegJ6seSGDj-Ze_sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450490707876-uitt75n2b3im0snuecgr67qemtofp5dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

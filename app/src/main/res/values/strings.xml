@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JTanuki</string>
+    <string name="main_page">main_page</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Name">Name</string>
+    <string name="email">email</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="auth_failed">Auth failed</string>
+</resources>
